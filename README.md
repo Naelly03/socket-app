@@ -13,13 +13,13 @@ Um aplicativo de chat em tempo real construído com Node.js, Express, Socket.IO 
 
 - Comunicação em tempo real entre 2 usuários.
 
-## Instalação
-
-1. Clone o repositório:
-   ```bash
-   https://github.com/NaellyV/Chat-APP.git
-   cd chat-app
-2. Instale as depedências
-   ``bash
-   npm install
-
+▶️ Como rodar o projeto
+Instale as dependências:
+```
+npm install
+````
+Inicie o servidor:
+````
+npm start
+````
+O servidor será iniciado (padrão na porta 3001).
