@@ -14,6 +14,7 @@ Um aplicativo de chat em tempo real construído com Node.js, Express, Socket.IO 
 - Comunicação em tempo real entre 2 usuários.
 
 ▶️ Como rodar o projeto
+
 Instale as dependências:
 ```
 npm install
